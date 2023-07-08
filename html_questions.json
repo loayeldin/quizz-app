@@ -1,0 +1,68 @@
+[
+    {
+        "title":" Which of the following is used to read an HTML page and render it? ",
+        "answer_1":"Web server",
+        "answer_2":"Web network",
+        "answer_3":"Web browser",
+        "answer_4":"Web matrix",
+        "right_answer":"Web browser"
+
+    },
+
+    {
+        "title":"Which of the following tag is used for inserting the largest heading in HTML? ",
+        "answer_1":"head",
+        "answer_2":"<h1>",
+        "answer_3":"<h6>",
+        "answer_4":" heading",
+        "right_answer":"<h1>"
+
+    },
+
+    {
+        "title":"What is DOM in HTML?",
+        "answer_1":"Language dependent application programming",
+        "answer_2":"Hierarchy of objects in ASP.NET",
+        "answer_3":"Convention for representing and interacting with objects in html documents",
+        "answer_4":"basic language",
+        "right_answer":"Convention for representing and interacting with objects in html documents"
+
+    },
+    {
+        "title":"In which part of the HTML metadata is contained?",
+        "answer_1":"head tag",
+        "answer_2":"title tag",
+        "answer_3":"html tag",
+        "answer_4":"body tag",
+        "right_answer":"head tag"
+
+    },  
+     {
+        "title":" Which of the following is not a HTML5 tag?",
+        "answer_1":"<track>",
+        "answer_2":"<video>",
+        "answer_3":"<slider>",
+        "answer_4":"<source>",
+        "right_answer":"<slider>"
+
+    },
+    {
+        "title":"How do we write comments in HTML?",
+        "answer_1":"</…….>",
+        "answer_2":"<!……>",
+        "answer_3":"</……/>",
+        "answer_4":"<…….!>",
+        "right_answer":"<!……>"
+
+    }, 
+    {
+        "title":" Among the following, which is the HTML paragraph tag?",
+        "answer_1":"<p>",
+        "answer_2":"<pre>",
+        "answer_3":"<hr>",
+        "answer_4":"<a>",
+        "right_answer":"<p>"
+
+    }
+    
+]
